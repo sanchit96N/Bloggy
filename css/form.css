@@ -1,0 +1,20 @@
+.txt_area
+{
+	width:80%;
+	margin-left:10%;
+	margin-bottom:20px;
+	margin-top:20px;
+	height:250px;
+	display:block;
+	background:none;
+	font-size:25px;
+	color:#303030;
+	border:2px solid #ff1a1a;
+	transition:border 0.5s;
+
+}
+.txt_area:focus
+{
+	border:2px solid #33adff;
+	outline:none;
+}

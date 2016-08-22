@@ -1,0 +1,34 @@
+.contact
+{
+	font-family:Verdana, Geneva, sans-serif;
+}
+.contact_heading
+{
+	color:#404040;
+	font-size:36px;
+}
+.about_dev
+{
+}
+.logo
+{
+	font-size:36px;
+	color:#404040;
+}
+a
+{
+	text-decoration:none;
+}
+a:link
+{
+	color:#47d147;
+}
+a:visited
+{
+	color:#47d147;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:#47d147;
+}
